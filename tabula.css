@@ -1,0 +1,56 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+}
+/*.header
+{
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 50px 10px;
+    display: flex;
+    text-align: center;
+
+}*/
+h1
+{
+    text-align: center;
+    padding: 50px;
+    display: block;
+
+}
+table
+{
+    border:1px solid black;
+    width: 100%;
+}
+td
+{
+    border:1px solid black;
+    text-align: center;
+}
+tr
+{
+    border:1px solid black;
+    text-align: center;
+    
+}
+th
+{
+    border:1px solid black;
+    text-align: center;
+}
+section
+{
+  position: relative;
+  width: 100%;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #fff;
+
+}
