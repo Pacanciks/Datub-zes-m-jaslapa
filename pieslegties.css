@@ -100,16 +100,18 @@ body
     color: #fff;
     border-right: 1px solid #fff;
 }
-.container .form .inputBox input[type="submit"]
+.container .form .inputBox a[type="submit"]
 {
     background: #fff;
     color: #FF4C33;
-    padding: 10px 0;
     font-weight: 500;
     cursor: pointer;
     box-shadow: -5px -5px 15px rgba(225, 225, 255, 0.1),
     5px 5px 15px rgba(0, 0, 0, 35);
-
+    padding: 12px 14px 12px 75px;
+    border-radius: 25px;
+    text-align: center;
+    padding: 10px 127px;
 }
 .container .form p
 {
